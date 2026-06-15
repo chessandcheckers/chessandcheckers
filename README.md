@@ -18,7 +18,7 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 | Project | Description | Status |
 |---|---|---|
 | [personal_energy_tracker](https://github.com/chessandcheckers/personal_energy_tracker) | Python tool to log and visualize personal energy levels | ✅ Complete |
-| log_analyzer | Parses system logs to surface patterns and anomalies | 🔨 In progress |
+| {log_analyzer}(https://github.com/chessandcheckers/log_analyzer) | Parses system logs to surface patterns and anomalies | 🔨 In progress |
  
 ---
  
