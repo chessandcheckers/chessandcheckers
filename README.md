@@ -19,12 +19,13 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 |---|---|---|
 | [personal_energy_tracker](https://github.com/chessandcheckers/personal_energy_tracker) | Python tool to log and visualize personal energy levels | ✅ Complete |
 | [log_analyzer](https://github.com/chessandcheckers/log_analyzer) | Parses system logs to surface patterns and anomalies | 🔨 In progress |
+| [wardrobe_org](https://github.com/chessandcheckers/wardrobe_org) | Helps in wardrobe organisiation, built using Java | 🔨 In progress |
  
 ---
  
 ## Stack & Tools
  
-`Python` `Linux` `Git` `SQL` `Bash`
+`Python` `Linux` `Git` `SQL` `Bash` `Java`
  
 Currently exploring: `Wireshark` · `TryHackMe` · `CompTIA Security+`
  
