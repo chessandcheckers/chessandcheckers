@@ -22,6 +22,7 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 | [personal_energy_tracker](https://github.com/chessandcheckers/personal_energy_tracker) | Python tool to log and visualize personal energy levels | ✅ Complete |
 | [smart_system_monitor](https://github.com/chessandcheckers/smart_system_monitor) | Parses system logs to surface patterns and anomalies | 🔨 In progress |
 | [wardrobe_org](https://github.com/chessandcheckers/wardrobe_org) | Java CLI tool to help decide what to keep, donate, or toss from a wardrobe | 🔨 In progress |
+| [password_generator](https://github.com/chessandcheckers/password_generator) | Using HTML and CSS to design a password generator with various constraints | 🔨 In progress |
 
 ---
 
