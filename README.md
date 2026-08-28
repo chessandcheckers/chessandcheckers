@@ -18,7 +18,7 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 
 | Project | Description | Status |
 |---|---|---|
-| [bandit_notes](https://github.com/chessandcheckers/bandit-notes) | Structured learning log working through OverTheWire's Bandit wargame | 🟢 Active |
+| [bandit_notes](https://github.com/chessandcheckers/linux_learning_notes) | Structured learning log working through OverTheWire's Bandit wargame | 🟢 Active |
 | [personal_energy_tracker](https://github.com/chessandcheckers/personal_energy_tracker) | Python tool to log and visualize personal energy levels | ✅ Complete |
 | [smart_system_monitor](https://github.com/chessandcheckers/smart_system_monitor) | Parses system logs to surface patterns and anomalies | 🔨 In progress |
 | [password_generator](https://github.com/chessandcheckers/password_generator) | Using HTML and CSS to design a password generator with various constraints | 🔨 In progress |
