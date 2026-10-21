@@ -9,8 +9,9 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 ## What I'm working on
 
 - 🔐 Building foundations in network security and ethical hacking
-- 🐧 Working through [OverTheWire Bandit](https://github.com/chessandcheckers/bandit-notes) — documenting Linux fundamentals level by level
-- 📖 Reading *Ghost in the Wires* — Kevin Mitnick's account of social engineering and evasion
+- 🐧 Working through [OverTheWire Bandit](https://github.com/chessandcheckers/linux_learning_notes) — 20+ levels documented, reasoning-first
+- 🤖 Revisiting and rebuilding my LSTM traffic prediction model — v2 pushed, actively improving
+- 🌐 Building a personal website in Astro
 
 ---
 
@@ -18,18 +19,18 @@ I'm interested in how systems work under the hood: operating systems, networks, 
 
 | Project | Description | Status |
 |---|---|---|
-| [bandit_notes](https://github.com/chessandcheckers/linux_learning_notes) | Structured learning log working through OverTheWire's Bandit wargame | 🟢 Active |
+| [lstm_traffic_prediction](https://github.com/chessandcheckers/lstm_traffic_prediction) | LSTM model for hourly traffic forecasting — rebuilt with proper evaluation and baseline comparison | 🔨 Active |
+| [smart_system_monitor](https://github.com/chessandcheckers/smart_system_monitor) | Parses system logs to classify events and surface anomalies | 🔨 In progress |
+| [wardrobe_org](https://github.com/chessandcheckers/wardrobe_org) | Java CLI tool to evaluate and sort wardrobe items using weighted scoring | 🔨 In progress |
+| [linux_learning_notes](https://github.com/chessandcheckers/linux_learning_notes) | Structured learning log through OverTheWire Bandit — focused on reasoning, not solutions | 🟢 Active |
+| [password_generator](https://github.com/chessandcheckers/password_generator) | Browser-based password generator with configurable constraints | ✅ Complete |
 | [personal_energy_tracker](https://github.com/chessandcheckers/personal_energy_tracker) | Python tool to log and visualize personal energy levels | ✅ Complete |
-| [smart_system_monitor](https://github.com/chessandcheckers/smart_system_monitor) | Parses system logs to surface patterns and anomalies | 🔨 In progress |
-| [password_generator](https://github.com/chessandcheckers/password_generator) | Using HTML and CSS to design a password generator with various constraints | 🔨 In progress |
 
 ---
 
 ## Stack & Tools
 
-`Python` `Linux` `Git` `SQL` `Bash` `Java`
-
-Currently exploring: `Wireshark` · `TryHackMe` · `CompTIA Security+`
+`Python` `Java` `Linux` `Git` `Bash` `SQL`
 
 ---
 
