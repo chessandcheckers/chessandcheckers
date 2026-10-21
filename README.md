@@ -21,7 +21,7 @@ Currently a CS student at MLRIT, Hyderabad — building from the ground up.
 
 | Project | Description | Status |
 |---|---|---|
-| [campus_access_pass](https://github.com/chessandcheckers/campus_access_pass) | Backend + security for a college resource and space management system | ✅ Working |
+| [campus_access_pass](https://github.com/chessandcheckers/campus-access-pass) | Backend + security for a college resource and space management system | ✅ Working |
 | [lstm_traffic_prediction](https://github.com/chessandcheckers/lstm_traffic_prediction) | LSTM model for hourly traffic forecasting — rebuilt with proper evaluation and baseline comparison | 🔨 Active |
 | [smart_system_monitor](https://github.com/chessandcheckers/smart_system_monitor) | Parses system logs to classify events and surface anomalies | 🔨 In progress |
 | [wardrobe_org](https://github.com/chessandcheckers/wardrobe_org) | Java CLI tool to evaluate and sort wardrobe items using weighted scoring | 🔨 In progress |
